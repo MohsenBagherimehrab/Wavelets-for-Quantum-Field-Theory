@@ -1,1 +1,1 @@
-# Wavelets-for-Quantum-Field-Theory
+# Wavelets for Quantum Field Theory
